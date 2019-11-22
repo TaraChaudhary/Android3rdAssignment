@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">3rdAssignment</string>
+    <string name="title_activity_">Activity</string>
+    <string name="title_home">View Student</string>
+    <string name="title_dashboard">Add Student</string>
+    <string name="title_notifications">About Us</string>
+</resources>
